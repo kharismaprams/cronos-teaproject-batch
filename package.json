@@ -1,0 +1,42 @@
+{
+  "name": "cronos-teaproject-cli",
+  "version": "1.0.0",
+  "description": "An app for Tea.xyz based on CRO Token MultiSender - Cronos and created using cro-token-multisender-cronos package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords":[
+    "kharismaprams",
+    "bot multisender",
+    "GitHub multisender",
+    "teaxyz",
+    "cronos sender",
+    "cronos",
+    "tea project",
+    "multisender",
+    "token multi sender"
+      ],
+      
+  "author": "Kharisma Prams",
+  "license": "MIT",
+  "dependencies": {
+"mencari": "^1.2.5",
+"@richxprams/mencari": "^1.0.0",
+"dc-push-rank-new": "^1.2.8",
+"@richxprams/dc-push-rank-new": "^1.1.4",
+"discord-push-rank-api": "^1.2.4",
+"@richxprams/discord-push-rank-api": "^1.1.9",
+"token-multisender": "^1.3.2",
+"token-multisender-app": "^1.0.0",
+"token-multisender-using-js-teaproject": "^1.0.0",
+"teaproject-multisender": "^1.0.0",
+"fillter-0x-wallet-42-char-to-txt-using-python": "^1.0.0",
+"cro-token-multisender-cronos": "^1.0.0",
+"cronos-teaproject": "^1.0.0",
+"cronos-teaproject-webapp": "^1.0.0",
+"cronos-teaproject-cli": "^1.0.0",
+"cronos-teaproject-cuttema": "^1.0.0",
+"dc-push-rank-api": "^1.2.4"
+  }
+}
